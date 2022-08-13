@@ -22,6 +22,7 @@
   "devDependencies": {
     "@playwright/test": "^1.24.2",
     "allure-commandline": "^2.18.1",
-    "allure-playwright": "^2.0.0-beta.19"
+    "allure-playwright": "^2.0.0-beta.19",
+    "log4js": "^6.6.1"
   }
 }
